@@ -6,7 +6,7 @@
   
   
   body {
-    font-family: Tahoma,  !important;
+    font-family: 'Open Sans', sans-serif, !important;
   }
   
   
@@ -50,7 +50,6 @@
   }
   
   li {
-    font-family: Tahoma, Verdana, Segoe, sans-serif;
     color: white;
   }
   
@@ -134,7 +133,6 @@
   .informations {
     color: #c64625;
     font-size: 40px;
-    font-family: Tahoma, sans-serif;
     margin-top: 5rem;
     text-align: center;
   }
@@ -559,7 +557,7 @@
   @media screen and (max-width:1700px) {
   
     .swiper-slide {
-      width: 400px;
+      width: 420px;
       height: 400px;
     }
   }
